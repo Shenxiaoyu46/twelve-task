@@ -1,0 +1,17 @@
+.container {
+    background: url(bg.gif);
+    margin-left: 250px;
+    width: 750px;
+}
+.center-block{
+	font-size: 40px;
+	font-weight: bolder;
+	text-align: center;
+}
+.table-striped {
+    max-width: 750px;
+}
+
+.table-striped li {
+    line-height: 25px;
+}
